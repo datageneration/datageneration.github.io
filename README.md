@@ -1,1 +1,1 @@
-# datageneration.github.io
+# Data Generation website
